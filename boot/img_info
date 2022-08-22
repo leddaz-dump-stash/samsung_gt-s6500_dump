@@ -1,0 +1,12 @@
+kernel=kernel
+ramdisk=ramdisk
+page_size=2048
+kernel_size=7292108
+ramdisk_size=167702
+base_addr=0x00200000
+kernel_offset=0x00008000
+ramdisk_offset=0x01100000
+tags_offset=0x00000100
+cmd_line='console=ttyHSL0,115200,n8 androidboot.hardware=qcom'
+board=""
+format=gzip

@@ -1,0 +1,14 @@
+# GT-S6500-user 2.3.6 GINGERBREAD XXLK2 release-keys
+- manufacturer: samsung
+- platform: msm7k
+- codename: GT-S6500
+- flavor: user
+- release: 2.3.6
+- id: GINGERBREAD
+- incremental: S6500XXLK2
+- tags: release-keys
+- fingerprint: samsung/GT-S6500/GT-S6500:2.3.6/GINGERBREAD/XXLK2:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: GT-S6500-user-2.3.6-GINGERBREAD-XXLK2-release-keys
+- repo: samsung_gt-s6500_dump
